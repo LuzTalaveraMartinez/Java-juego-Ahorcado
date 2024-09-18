@@ -9,6 +9,6 @@ Hicimos un juego de ahorcado en JAVA donde uno debe ir colocando letra por letra
 3. Arreglos
 4. Estructura de control: Iterativa (Bucle)
 5. Clase String y sus métodos valueOf, charAt y length()
-6. Clase haracter y su método toLowerCase
+6. Clase Character y su método toLowerCase
 7. Estructura de control: condicional
 
